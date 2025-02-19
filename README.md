@@ -3,7 +3,7 @@
 🚀 **Software Developer | C# .NET | Angular | TypeScript | React**  
 
 💡 Passionate about building **scalable applications** and crafting seamless **user experiences**.  
-🔹 Experienced in **C# .NET, Angular, TypeScript, React, MSSQL**.  
+🔹 Experienced in **C# .NET, Angular, TypeScript, React, MSSQL, MongoDB, PostgreSQL**.  
 💼 Currently working at **SELISE Digital Platforms**.  
 🛠 Contributor to **RIQS, SoftPlus & Creolytix** projects.  
 📚 Always learning and exploring new technologies.  
@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack  
 - **Languages:** C#, TypeScript, JavaScript, SQL  
 - **Frameworks & Libraries:** .NET, Angular, React  
-- **Databases:** MSSQL  
+- **Databases:** MSSQL, MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, Azure, Docker  
 
 ### 📈 GitHub Stats  
