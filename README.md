@@ -3,7 +3,7 @@
 
 💡 Passionate about building **scalable applications** and delivering **seamless user experiences**.  
 🔹 Skilled in **C# .NET, Angular, React, TypeScript, MongoDB, PostgreSQL, MSSQL**.  
-💼 Currently crafting solutions at **SELISE Digital Platforms**.  
+💼 Currently working at **SELISE Digital Platforms**.  
 🛠 Contributor to **RIQS, Creolytix & SoftPlus** projects.  
 📚 Always learning, innovating, and exploring new technologies.  
 
