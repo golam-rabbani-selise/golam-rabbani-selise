@@ -1,16 +1,25 @@
-### Hey! 👋🏼 I'm Golam Rabbani
+### Hi there, I'm Golam Rabbani! 👋  
 
-<!--
-**rabbi-selise/rabbi-selise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | C# .NET | Angular | TypeScript | React**  
 
-Here are some ideas to get you started:
+💡 Passionate about building **scalable applications** and crafting seamless **user experiences**.  
+🔹 Experienced in **C# .NET, Angular, TypeScript, React, MSSQL**.  
+💼 Currently working at **SELISE Digital Platforms**.  
+🛠 Contributor to **RIQS, SoftPlus & Creolytix** projects.  
+📚 Always learning and exploring new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+- **Languages:** C#, TypeScript, JavaScript, SQL  
+- **Frameworks & Libraries:** .NET, Angular, React  
+- **Databases:** MSSQL  
+- **Tools & Platforms:** Git, Azure, Docker  
+
+### 📈 GitHub Stats  
+![Golam Rabbani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Golam%20Rabbani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/golam~rabbani)  
+
+---
+
+✨ *"Code, learn, build, repeat!"*  
