@@ -1,5 +1,5 @@
 Hi there, I'm Golam Rabbani! 👋
-🚀 Software Developer | C# .NET | Angular | TypeScript | React
+🚀 Software Developer | C# .NET | Angular | React | TypeScript
 
 💡 Passionate about building scalable applications and delivering seamless user experiences.
 🔹 Skilled in C# .NET, Angular, React, TypeScript, MongoDB, PostgreSQL, MSSQL.
