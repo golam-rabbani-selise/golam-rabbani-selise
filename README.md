@@ -1,7 +1,3 @@
-Here’s an improved and more polished version of your GitHub bio:  
-
----
-
 ### Hi there, I'm Golam Rabbani! 👋  
 🚀 **Software Developer | C# .NET | Angular | React | TypeScript**  
 
