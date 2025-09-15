@@ -1,5 +1,5 @@
 ### Hi there, I'm Golam Rabbani! 👋  
-🚀 **Full-Stack Software Developer | C# .NET | Node.js | Express.js | Angular | React | TypeScript**  
+🚀 **Full-Stack Software Developer | C# .NET | Node.js | Express.js | Angular | React | TypeScript**   
 
 💡 Passionate about building **scalable applications** and delivering **seamless user experiences**.  
 🔹 Skilled in **C# .NET, Node.js, Express.js, Angular, React, TypeScript, MongoDB, PostgreSQL, and MS SQL Server**.  
