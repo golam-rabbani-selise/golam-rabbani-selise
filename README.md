@@ -38,12 +38,12 @@ Currently, my main focus is **AI and LLM engineering** — building intelligent 
 
 ### 🧠 How my brain is wired
 
-* 🧱 **Architect for evolvability, build for reality**
-* ⚖️ **Pragmatism over dogmatism in every design choice**
-* 🔍 **Simplicity is the ultimate sophistication in software**
-* 🎯 **Engineering decisions are ultimately product & business decisions**
-* ⚡ **Readable code always beats overly clever one-liners**
-* 🛠️ **Lead from the front — code, design, and mentor**
+* 🧠 **Systemic thinking, component-level clarity**
+* 🎯 **Clean architecture over quick-fix technical debt**
+* 📈 **Scale the product without inflating system complexity**
+* 🛡️ **Predictable systems, maintainable codebases**
+* ⚙️ **High engineering standards, zero noise**
+* 🤝 **Architectural vision backed by hands-on execution**
 
 ---
 
