@@ -28,7 +28,7 @@
 
 ### 👋 About
 
-Senior Software Engineer with **6+ years** building scalable enterprise software and AI capabilities. I combine technical leadership with system design, leading development teams at **[SELISE Group](https://selise.ch)** while staying close to the architecture and code.
+Senior Software Engineer with **5+ years** building scalable enterprise software and AI capabilities. I combine technical leadership with system design, leading development teams at **[SELISE Group](https://selise.ch)** while staying close to the architecture and code.
 
 Currently, my main focus is **AI and LLM engineering** — building intelligent assistants, automation, and AI-integrated workflows using modern LLMs to turn emerging technologies into practical features that solve real product and business problems.
 
