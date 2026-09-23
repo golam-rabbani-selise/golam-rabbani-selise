@@ -38,12 +38,12 @@ Currently, my main focus is **AI and LLM engineering** — building intelligent 
 
 ### 🧠 How my brain is wired
 
-* 🧠 **Strong systems/architecture mind**
-* ⚡ **Clear code > clever code**
-* 🎯 **Architecture is a business decision**
-* 🚀 **Love scale without complexity**
-* ⚙️ **Disciplined engineering, zero fluff**
-* 🛠️ **Hands-on with architecture and code**
+* 🧱 **Architect for evolvability, build for reality**
+* ⚖️ **Pragmatism over dogmatism in every design choice**
+* 🔍 **Simplicity is the ultimate sophistication in software**
+* 🎯 **Engineering decisions are ultimately product & business decisions**
+* ⚡ **Readable code always beats overly clever one-liners**
+* 🛠️ **Lead from the front — code, design, and mentor**
 
 ---
 
@@ -51,7 +51,7 @@ Currently, my main focus is **AI and LLM engineering** — building intelligent 
 
 | Metric | Detail |
 | :--- | :--- |
-| **3+ Years** in enterprise full-stack engineering | Core focus on **.NET, Node.js, Angular, React & LLMs** |
+| **5+ Years** in enterprise full-stack engineering | Core focus on **.NET, Node.js, Angular, React & LLMs** |
 | **Enterprise Architecture** & Microservices | Designed and maintained high-availability system APIs |
 | **AI Integration** in SaaS platforms | LLM workflows, intelligent assistants, and smart automation |
 | **Team Leadership** at SELISE Group | Leading dev teams, technical decisions, and solution design |
