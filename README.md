@@ -17,7 +17,7 @@
 <br />
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/golam~rabbani)
 [![Email](https://img.shields.io/badge/Email-golam.rabbani.dev7%40gmail.com-D14836?style=flat-square&logo=gmail)](#)
 [![GitHub](https://img.shields.io/badge/Open_Source-golam--rabbani--selise-181717?style=flat-square&logo=github)](https://github.com/golam-rabbani-selise)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-555555?style=flat-square&logo=googlemaps)](#)
