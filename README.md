@@ -137,14 +137,14 @@ Deep dives into engineering challenges and platform architecture:
 
 ### ☕ A few honest quirks
 
-* 🤓 **Ambivert, selectively social**
-* 🎯 **Precision addict, procrastination hater**
-* ✍️ **My comments explain why, not what**
-* ☕ **Coffee-powered problem solver**
-* 🌙 **Curiosity occasionally steals my sleep**
+* 🎯 **Obsessed with clean architecture and DRY principles**
+* 🧩 **Complex problems are just puzzles waiting for a smart algorithm**
+* 🔍 **Details matter — from code indentation to user experience**
+* 🧠 **Constant learner, early adopter of tech and AI**
+* ☕ **Bug fixing is easier after the first cup of espresso**
 
 ---
 
 <p align="center">
-  <i>Craft matters. People matter. Everything else is noise.</i>
+  <i>Code with purpose. Lead with empathy. Filter the rest.</i>
 </p>
