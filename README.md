@@ -88,10 +88,10 @@ A overview of products across different domains — a sample of what built and t
 
 | Project | What it is | Tech |
 | :--- | :--- | :--- |
-| **[Creolytix](https://creolytix.io)** | Enterprise security & risk intelligence platform | `.NET` `Microservices` `React` |
-| **[Recyclium](https://recyclium.io)** | Circular economy & recycling platform | `Node.js` `Angular` `MongoDB` |
-| **[RIQS](https://riqs.com)** | Enterprise digital platform solution | `C#` `REST APIs` `PostgreSQL` |
-| **SoftPlus** | Multi-tenant enterprise management platform | `.NET Core` `TypeScript` `Docker` |
+| **[Creolytix](https://creolytix.io)** | Enterprise security & risk intelligence platform | `.NET` `MongoDB` `React` |
+| **[Recyclium](https://recyclium.io)** | Circular economy & recycling platform | `Node.js` `PostgreSQL` `React` |
+| **[RIQS](https://riqs.com)** | Enterprise digital platform solution | `.NET` `Angular` `MongoDB` |
+| **SoftPlus** | Multi-tenant enterprise management platform | `.NET` `VB.NET` `MSSQL` |
 
 ---
 
